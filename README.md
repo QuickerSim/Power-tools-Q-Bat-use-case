@@ -1,7 +1,7 @@
 # Heat transfer in a power tool’s battery pack modeled in Q-Bat
 [![View Battery pack Simulink model with Q-Bat and Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/112580-power-tools-q-bat-use-case)
 
-### :arrow_down: Please use this link instead of the download button: [Download link](https://github.com/QuickerSim/Power-tools-Q-Bat-use-case/releases/download/1.0.2/Power-tools-Q-Bat-use-case.zip) :arrow_down:
+### :arrow_down: Please use this link instead of the download button: [Download link](https://github.com/QuickerSim/Power-tools-Q-Bat-use-case/releases/download/1.0.3/Power-tools-Q-Bat-use-case.zip) :arrow_down:
 
 Run power_tools_demo.m or power_tools_demo_ls.mlx to get started
 * Please visit the [Q-Bat](https://www.mathworks.com/products/connections/product_detail/quickersim-q-bat.html) and [QuickerSim](https://emobility.quickersim.com/) 
