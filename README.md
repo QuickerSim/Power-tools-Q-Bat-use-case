@@ -9,7 +9,7 @@ The model will be simulated under 3 circumstances:
 3.	Thermal propagation – One cell is heating significantly more due to malfunction. Heat dissipation from a faulty cell will be checked. 30 minutes of operation.
 
 
-### :arrow_down: Please use this link instead of the download button: [Download link](https://github.com/QuickerSim/Battery-pack-Simulink-model-with-Q-Bat-and-Simscape/releases/download/1.0.0/BatteryPackModel.zip) :arrow_down:
+### :arrow_down: Please use this link instead of the download button: [Download link](https://github.com/QuickerSim/Power-tools-Q-Bat-use-case/releases/download/1.0.0/Power-tools-Q-Bat-use-case.zip) :arrow_down:
 
 
 Run power_tools_demo.m or power_tools_demo_ls.mlx to get started
