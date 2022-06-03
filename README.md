@@ -1,5 +1,5 @@
 # Heat transfer in a power tool’s battery pack modeled in Q-Bat
-[![View Battery pack Simulink model with Q-Bat and Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](tu link)
+[![View Battery pack Simulink model with Q-Bat and Simscape on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/112580-power-tools-q-bat-use-case)
 
 This repository shows how to model heat transfer in a power tool’s battery pack in Q-Bat from QuickerSim. The model consists 5 Li-ion cells connected in series, terminals, connectors, holders and casing and is connected to a reduced-order model (ROM) to model heat transfer in 3D geometry.
 
